@@ -62,7 +62,7 @@ This repository contains detailed notes covering key concepts in **Artificial In
   - Belief Propagation and Probabilistic Inference  
   - Markov Processes and Hidden Markov Models  
 
----
+
 
 ## How to Use  
 These notes serve as a comprehensive reference for learning and revision. Navigate through them as per your need.
